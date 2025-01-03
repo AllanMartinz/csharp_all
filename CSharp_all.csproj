@@ -7,4 +7,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Cod3r\ArquivosApi\" />
+    <Folder Include="Cod3r\Encapsulamento\" />
+    <Folder Include="Cod3r\Main\Api\" />
+    <Folder Include="Cod3r\Main\ClassesMetodos\" />
+    <Folder Include="Cod3r\Main\Avancados\" />
+    <Folder Include="Cod3r\Main\Test\" />
+    <Folder Include="Cod3r\Main\OO\" />
+    <Folder Include="Cod3r\Main\MetodosFuncoes\" />
+    <Folder Include="Cod3r\Main\Fundamentos\" />
+    <Folder Include="Cod3r\Main\Excecoes\" />
+    <Folder Include="Cod3r\Main\EstruturaControle\" />
+    <Folder Include="Cod3r\Main\Colecoes\" />
+  </ItemGroup>
+
 </Project>
