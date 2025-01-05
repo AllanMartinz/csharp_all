@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
 using CSharp_all.Cod3r.Main.Api;
 using CSharp_all.Cod3r.Main.Avancados;
 using CSharp_all.Cod3r.Main.ClassesMetodos;
@@ -15,15 +16,17 @@ using CSharp_all.Cod3r.Main.MetodosFuncoes;
 using CSharp_all.Cod3r.Main.OO;
 using CSharp_all.Cod3r.Main.Test;
 
+*/
+
 namespace CSharp_all.Cod3r.Main
 {
     class Program
     {
-        static void Main(string[] args)
+        static void MainOut(string[] args)
         {
             var central = new CentralDeExecicios(new Dictionary<string, Action>()
             {
-                {"",}
+                //{"",}
             });
 
             central.SelecionarEExecutar();

@@ -1,0 +1,15 @@
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.AssemblyInfoInputs.cache
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.AssemblyInfo.cs
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.sourcelink.json
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\bin\Debug\net9.0\CSharp_all.exe
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\bin\Debug\net9.0\CSharp_all.deps.json
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\bin\Debug\net9.0\CSharp_all.runtimeconfig.json
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\bin\Debug\net9.0\CSharp_all.dll
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\bin\Debug\net9.0\CSharp_all.pdb
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.dll
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\refint\CSharp_all.dll
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.pdb
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\CSharp_all.genruntimeconfig.cache
+C:\Users\Allan\source\repos\CSharp_all\CSharp_all\obj\Debug\net9.0\ref\CSharp_all.dll
