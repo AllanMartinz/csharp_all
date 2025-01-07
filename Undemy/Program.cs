@@ -15,6 +15,8 @@ namespace CSharp_all.Undemy
             var central = new CentralDeExecicios(new Dictionary<string, Action>()
             {
                 {"Primeiro Exercicio", PrimeiroExercicio.Executar},
+                {"Segundo Exercicio", SegundoExercicio.Executar},
+                {"Terceiro Exercicio", TerceiroExercicio.Executar},
             });
 
             central.SelecionarEExecutar();
