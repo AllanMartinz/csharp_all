@@ -8,9 +8,12 @@ namespace CSharp_all.Undemy.Fist
 {
     class PrimeiroExercicio
     {
+
+        //primeiro passo hello world
         public static void Executar()
         {
             Console.WriteLine("Hello World!");
+            //vai pedir ao console digitar "hello world"
         }
     }
 }

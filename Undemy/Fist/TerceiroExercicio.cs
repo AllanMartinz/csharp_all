@@ -10,12 +10,15 @@ namespace CSharp_all.Undemy.Fist
     {
         public static void Executar()
         {
+            //uso readline para escrever no console
             string frase = Console.ReadLine();
             string x = Console.ReadLine();
             string y = Console.ReadLine();
             string z = Console.ReadLine();
 
-            string[] vet = Console.ReadLine().Split(' ');
+            // uso de arrays para criacoa de uma especie de lista para atribuir a ela
+            string[] vet = Console.ReadLine().Split(' '); // split para separa quem e quem com um ' '
+            // atribuir cada vetor com [] do primeiro 0 ao ultimo ...
             string p1 = vet[0];
             string p2 = vet[1];
             string p3 = vet[2];
