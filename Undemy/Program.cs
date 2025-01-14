@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using CSharp_all.Undemy.Fist;
+using CSharp_all.Undemy.Uri;
 
 namespace CSharp_all.Undemy
 {
@@ -24,6 +25,11 @@ namespace CSharp_all.Undemy
                 //atividades
                 {"Atividade 01", AttFirst.Executar},
                 {"Atividade 02", AttSec.Executar},
+                {"Atividade 03", AttThir.Executar},
+
+                //Uris
+                {"Uri 01", Uri01.Executar},
+
             });
 
             central.SelecionarEExecutar();
