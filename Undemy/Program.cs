@@ -26,9 +26,11 @@ namespace CSharp_all.Undemy
                 {"Atividade 01", AttFirst.Executar},
                 {"Atividade 02", AttSec.Executar},
                 {"Atividade 03", AttThir.Executar},
+                {"Atividade 04", AttQua.Executar},
 
                 //Uris
                 {"Uri 01", Uri01.Executar},
+                {"Uri 19", Uri19.Executar},
 
             });
 

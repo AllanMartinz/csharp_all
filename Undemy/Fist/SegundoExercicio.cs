@@ -56,7 +56,7 @@ namespace CSharp_all.Undemy.Fist
             Console.WriteLine();
 
             double f;
-            int t;
+           // int t;
 
             f = 5.0;
             b = (int)f; // para transformar de um jeito simples uma var e colocar a (var) antes da atribuicao do valor
