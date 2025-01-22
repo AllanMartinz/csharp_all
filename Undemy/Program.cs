@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-using CSharp_all.Undemy.Fist;
+using CSharp_all.Undemy.Atts;
+using CSharp_all.Undemy.Exercicios;
 using CSharp_all.Undemy.Uri;
 
 namespace CSharp_all.Undemy {
@@ -20,6 +20,8 @@ namespace CSharp_all.Undemy {
                 {"Quinto Exercicio", QuintoExercicio.Executar},
                 {"Sexto Exercicio", SextoExercicio.Executar},
                 {"Setimo Exercicio", SetimoExcercicio.Executar},
+                {"Oitavo Exercicio", OitavoExercicio.Executar},
+                {"Nono Exercicio", NonoExercicio.Executar},
 
                 //atividades
                 {"Atividade 01", AttFirst.Executar},

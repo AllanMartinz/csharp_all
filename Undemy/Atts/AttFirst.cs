@@ -5,12 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace CSharp_all.Undemy.Fist
-{
-    class AttFirst
-    {
-        public static void Executar()
-        {
+namespace CSharp_all.Undemy.Atts {
+    class AttFirst {
+        public static void Executar() {
 
             Console.WriteLine("Entre com seu nome completo: ");
             string fullName = Console.ReadLine();

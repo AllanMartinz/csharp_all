@@ -1,4 +1,4 @@
-﻿namespace CSharp_all.Undemy.Fist {
+﻿namespace CSharp_all.Undemy.Exercicios {
     class SextoExercicio {
         public static void Executar() {
             //int x = 5;

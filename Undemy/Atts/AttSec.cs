@@ -5,12 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace CSharp_all.Undemy.Fist
-{
-    class AttSec
-    {
-        public static void Executar()
-        {
+namespace CSharp_all.Undemy.Atts {
+    class AttSec {
+        public static void Executar() {
             /*
             Saida:
             AREA = 300.00

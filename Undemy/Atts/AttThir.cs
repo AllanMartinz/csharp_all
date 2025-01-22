@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 using System.Globalization;
 using System.Formats.Asn1;
 
-namespace CSharp_all.Undemy.Fist
-{
-    class AttThir
-    {
-        public static void Executar()
-        {
+namespace CSharp_all.Undemy.Atts {
+    class AttThir {
+        public static void Executar() {
             double medidaBase, alturaRet, area, perimetro, diagonal;
 
             medidaBase = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);

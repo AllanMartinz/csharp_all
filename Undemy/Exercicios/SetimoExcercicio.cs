@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp_all.Undemy.Fist {
+namespace CSharp_all.Undemy.Exercicios {
     class SetimoExcercicio {
         public static void Executar() {
             int n1, n2, n3;

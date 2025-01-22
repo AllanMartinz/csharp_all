@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace CSharp_all.Undemy.Fist {
+namespace CSharp_all.Undemy.Uri {
     class Uri36 {
         //bhaskara
         //ler 3 valores double
@@ -23,15 +23,15 @@ namespace CSharp_all.Undemy.Fist {
             //R1 = -B + Math.Sqrt((Math.Pow(B, 2)) - 4 * A * C)/ 2*A;
             //R2 = -B - Math.Sqrt((Math.Pow(B, 2)) - 4 * A * C)/ 2*A;
 
-            delta = Math.Pow(B, 2) - (4 * A * C);
+            delta = Math.Pow(B, 2) - 4 * A * C;
 
             if (A == 0 || delta < 0) {
                 Console.WriteLine("Impossivel de calcular");
             }
             else {
                 raiz = Math.Sqrt(delta);
-                R1 = ((-B) + raiz) / (2 * A);
-                R2 = ((-B) - raiz) / (2 * A);
+                R1 = (-B + raiz) / (2 * A);
+                R2 = (-B - raiz) / (2 * A);
                 Console.WriteLine($"R1 = {R1.ToString("f5", CultureInfo.InvariantCulture)}");
                 Console.WriteLine($"R2 = {R2.ToString("f5", CultureInfo.InvariantCulture)}");
             }

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace CSharp_all.Undemy.Fist {
+namespace CSharp_all.Undemy.Atts {
     class AttQui {
         //se a soma das notas forem < que 60.00 "escrevera errado" 
         public static void Executar() {

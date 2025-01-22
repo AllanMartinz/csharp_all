@@ -5,12 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace CSharp_all.Undemy.Fist
-{
-    class AttQua
-    {
-        public static void Executar()
-        {
+namespace CSharp_all.Undemy.Atts {
+    class AttQua {
+        public static void Executar() {
             int idadePri, idadeSec;
             string nomePri, nomeSec;
             double media;
@@ -23,7 +20,7 @@ namespace CSharp_all.Undemy.Fist
             nomeSec = vetSec[0];
             idadeSec = int.Parse(vetSec[1]);
 
-            media = (double)(idadePri + idadeSec) / 2.0;
+            media = (idadePri + idadeSec) / 2.0;
 
             Console.WriteLine($"A idade média de {nomePri} e {nomeSec} é de {media.ToString(CultureInfo.InvariantCulture)} anos");
         }

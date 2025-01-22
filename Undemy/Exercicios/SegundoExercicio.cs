@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization; // o uso de comps pemitira o uso de certos comandos
 
-namespace CSharp_all.Undemy.Fist
+namespace CSharp_all.Undemy.Exercicios
 {
     class SegundoExercicio
     {
