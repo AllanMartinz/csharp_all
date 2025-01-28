@@ -22,6 +22,7 @@ namespace CSharp_all.Undemy {
                 {"Setimo Exercicio", SetimoExcercicio.Executar},
                 {"Oitavo Exercicio", OitavoExercicio.Executar},
                 {"Nono Exercicio", NonoExercicio.Executar},
+                {"Decimo Exercicio", DecimoExercicio.Executar},
 
                 //atividades
                 {"Atividade 01", AttFirst.Executar},
@@ -34,6 +35,7 @@ namespace CSharp_all.Undemy {
                 {"Uri 01", Uri01.Executar},
                 {"Uri 19", Uri19.Executar},
                 {"Uri 36", Uri36.Executar},
+                {"Uri 1113", Uri113.Executar},
 
             });
 
